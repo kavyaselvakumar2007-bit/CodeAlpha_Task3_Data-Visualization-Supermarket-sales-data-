@@ -59,14 +59,14 @@ Visualizations in This Project
      1. Download or clone this repository.
 
 
-     2. Install required libraries (if not already installed):
+     2. Install required libraries :
 
-     pip install pandas matplotlib seaborn
+             pip install pandas matplotlib seaborn
 
 
      3. Open the notebook:
 
-     Task3_Supermarket_Visualization.ipynb
+             CodeAlpha_Task3_Supermarket_Visualization.ipynb
 
 
      4. Run all cells to generate the graphs.
@@ -84,4 +84,5 @@ All generated images are stored in the images/ folder.
     Domain: Data Analytics
     Task: Exploratory Data Analysis
     Intern: Kavya Dharshini S
+
 
